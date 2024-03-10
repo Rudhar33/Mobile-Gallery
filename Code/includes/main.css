@@ -1,0 +1,78 @@
+body, h1, h2, h3, h4, h5, h6{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #034f84
+}
+header div {
+    background: #034f84;
+    color:#FFF;
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+nav a {
+    padding: 5px;
+    display: inline-block;
+    margin-top:5px;
+    text-decoration: none;
+    color: #034f84;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.mycontainer {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+}
+footer{
+    text-align: center;
+}
+.header_img {
+    text-align: center;
+}
+.header_img img{
+    height: 200px;
+}
+p {
+    text-align: justify;
+}
+#top_heading{
+    text-align: center;
+    margin:10px;
+    color: #f7786b;
+}
+.device_heading {
+    text-decoration: underline;
+}
+.table_container{
+    max-width: 800px;
+    margin: 10px auto;
+}
+#specs {
+    font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#specs th{
+    text-align: left;
+    padding: 5px;
+}
+#specs tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.phone_img {
+    text-align: center;
+}
+.phone_img img{
+    max-width: 600px;
+}
+.buy_now_btn{
+    text-align: center;
+}
+.buy_now_btn img{
+    max-width: 200px;
+}
