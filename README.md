@@ -1,4 +1,5 @@
 Introduction:
+
 • our site is a mobile store.
 • we have different product pages for each of the devices
 along with the description of device & specifications.
